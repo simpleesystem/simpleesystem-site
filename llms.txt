@@ -1,0 +1,48 @@
+# Simple eSystem
+
+> Simple eSystem helps home service companies and local practices get recommended by Google and AI platforms, turn visits into booked work, and follow up with every lead. Serving Dallas, Fort Worth, Austin and clients across Texas since 2012. Phone 817-541-1750.
+
+Simple eSystem works in three pillars, in the order a customer experiences them: getting found on Google and in AI answers, a website that earns trust and stays up, and engagement that answers every customer, follows up, and books. Fred, an AI team member, answers questions and books appointments on client sites. Work runs in 90-day cycles.
+
+## Getting found
+- [Getting found](https://simpleesystem.com/getting-found/): The right people find your business on Google and in AI answers, and those answers describe you accurately. Search visibility, AI checks, and local listings.
+- [AI visibility check](https://simpleesystem.com/getting-found/ai-visibility-check/): See how ChatGPT, Gemini, Claude, Perplexity, and Grok answer your customers' questions, compared with local competitors, with a plan for what to fix first.
+- [Local listings](https://simpleesystem.com/getting-found/local-listings/): We set up and correct your Google Business Profile, Apple Maps, Bing Places, Yelp, Nextdoor, and directory listings so maps, search, and AI show the same facts.
+- [Search visibility](https://simpleesystem.com/getting-found/search-visibility/): A 90-day program that gets your business ranked on Google and cited by AI platforms, with content in your voice, your approval, and a monthly report.
+
+## Your website
+- [Your website](https://simpleesystem.com/websites/): A website that earns trust, answers questions, and stays up. Simple eSystem builds, hosts, secures, and moves sites for local businesses in Texas.
+- [Website builds](https://simpleesystem.com/websites/builds/): New websites on your brand, built for search and AI from day one, with fast pages, schema markup, and every old page redirected so rankings carry over.
+- [Hosting and security](https://simpleesystem.com/websites/hosting/): Managed website hosting at 99.99% uptime with outside monitoring, nightly backups, weekly updates, one-time-code sign-in, and same-day response to outages.
+- [Migrations](https://simpleesystem.com/websites/migrations/): Move your existing website to a managed platform as it stands. We test on a private address, map every redirect, and cut over only when it passes.
+
+## Engagement
+- [Engagement](https://simpleesystem.com/engagement/): Fred answers every visitor, automated follow-up keeps the rest warm, and reputation work brings happy customers back to say so in public.
+- [AI assistants](https://simpleesystem.com/engagement/ai-assistants/): We deploy Fred and other AI team members that answer only from your content, book appointments, score leads, and hand off to your people. Tested monthly.
+- [Follow-up and nurture](https://simpleesystem.com/engagement/follow-up/): Automated follow-up by email and text keeps leads warm until they are ready and routes ready leads to a person fast. Standard follow-up is included.
+- [Reputation management](https://simpleesystem.com/engagement/reputation/): Reputation management requests reviews at the right moment, monitors them, and answers them, so local search and AI answers see a business worth recommending.
+
+## Industries
+- [Industries](https://simpleesystem.com/industries/): Simple eSystem serves home service companies, local practices, professional services, insurance and lending, property management, parks, and nonprofits.
+- [Home services](https://simpleesystem.com/industries/home-services/): Get found by AI and Google, answer every inquiry, and book the job. Marketing, websites, and AI assistants for HVAC, roofing, restoration, and more.
+- [Local practices](https://simpleesystem.com/industries/practices/): Help patients find your chiropractic, wellness, weight loss, or med spa practice in AI answers and Google, then answer their questions and book them.
+
+## Case studies and articles
+- [Articles](https://simpleesystem.com/blog/): Practical articles from Simple eSystem on getting found in search and AI answers, local listings, websites, and follow-up, with case studies from real clients.
+- [Chiropractic practice in AI answers](https://simpleesystem.com/blog/chiropractic-practice-ai-answers/): CJW Chiropractic Solutions was cited by AI platforms about six weeks after launch and gained 13 new patients from ChatGPT and Claude within two months.
+- [Bing and Yahoo listings](https://simpleesystem.com/blog/yahoo-bing-local-listings/): Yahoo search results come from Bing, and some AI platforms draw on Bing data. Here is what a complete Bing Places listing includes and how to check yours.
+- [Bon Air](https://simpleesystem.com/work/bon-air/): How Cal, Bon Air Service Company's AI team member, closed a full sales cycle in one conversation for an HVAC company that has been a client for 6 years.
+- [CJW Chiropractic](https://simpleesystem.com/work/cjw-chiropractic/): How CJW Chiropractic Solutions went live in July 2026, was cited by AI platforms about six weeks later, and gained 13 new patients from ChatGPT and Claude.
+- [Grand Prairie Parks](https://simpleesystem.com/work/grand-prairie-parks/): How Dash, the Fred assistant on PrairieLights.org, captured 1,411 contacts in 28 days for the City of Grand Prairie Parks, Arts and Recreation.
+
+## Company
+- [Home](https://simpleesystem.com/): Simple eSystem helps home service companies and local practices get recommended by Google and AI platforms, turn visits into booked work, and follow up.
+- [About](https://simpleesystem.com/about/): Simple eSystem has served local businesses in Dallas, Fort Worth, and Austin since 2012. See how we work, why clients stay, and what procurement teams ask.
+- [Contact](https://simpleesystem.com/contact/): Book a call with Simple eSystem, send a message, or talk to Fred. Serving Dallas, Fort Worth, and Austin. Call 817-541-1750 to reach a person.
+- [Partners](https://simpleesystem.com/partners/): Keep your client and add recurring revenue. Simple eSystem delivers getting found, websites, and AI assistants under your name, with no developers or servers.
+- [Resources](https://simpleesystem.com/resources/): Automation videos, training and office hours for clients, an AI readiness assessment, and a free site health plugin coming to WordPress.org.
+- [Our work](https://simpleesystem.com/work/): Case studies from CJW Chiropractic, Bon Air Service Company, and Grand Prairie Parks, plus live client sites and references you can call.
+
+## Optional
+- [Full text of every page](https://simpleesystem.com/llms-full.txt)
+- [Custom AI and automation, Simple AI System](https://simpleaisystem.com)
