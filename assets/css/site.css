@@ -286,6 +286,9 @@ a.card:hover { border-color: var(--ink); transform: translateY(-2px); }
 .video-ph::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -9px 0 0 -5px; border-left: 16px solid var(--accent); border-top: 9px solid transparent; border-bottom: 9px solid transparent; }
 .video-ph small { position: absolute; left: 14px; bottom: 12px; font-size: .8125rem; color: var(--on-dark-muted); }
 .testimonial--video .testimonial__body { padding: 28px; display: flex; flex-direction: column; }
+.video-embed { background: #000; display: grid; place-items: center; }
+.video-embed video { display: block; width: 100%; max-height: 560px; aspect-ratio: 720 / 954; object-fit: contain; background: #000; }
+.article__photo { display: block; width: 100%; height: auto; border-radius: var(--radius); margin: 0 0 32px; }
 .testimonial--video .testimonial__body figcaption { margin-top: auto; padding-top: 18px; }
 
 /* Service list, checklist, FAQ */
